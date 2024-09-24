@@ -7,3 +7,4 @@ This is Microsoft Fabrics Bing Data Analysis Full End-to-End Data-Engineering-pr
  ##### 2. Data Transformation using Synapse Data Engineering: Dive into the process of shaping and refining your raw JSON data to a curated Delta Table, including techniques like incremental loading to keep your processes efficient.
  ##### 3. Sentiment Analysis using Synapse Data Science: Uncover insights hidden within the news description by predicting the sentiment of the news classified as Positive, Negative or Neutral.
  ##### 4. Orchestration using Data Factory via pipelines: Discover the art of orchestrating your data workflows, ensuring smooth and efficient operations.
+ ##### 5. 5. Data Reporting using Power BI: Visualize your data in a compelling and actionable manner, empowering stakeholders with valuable insights.
