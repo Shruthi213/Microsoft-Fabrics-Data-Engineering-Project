@@ -9,3 +9,4 @@ This is Microsoft Fabrics Bing Data Analysis Full End-to-End Data-Engineering-pr
  ##### 4. Orchestration using Data Factory via pipelines: Discover the art of orchestrating your data workflows, ensuring smooth and efficient operations.
  ##### 5. Data Reporting using Power BI: Visualize your data in a compelling and actionable manner, empowering stakeholders with valuable insights.
  ##### 6. Configuring Alerts using the Data Activator: Stay ahead of potential issues by setting up alerts and notifications within your Power BI visuals using a new tool called Data Activator.
+ ##### 7. End to End Pipeline Testing: The complete flow will be tested right from the data ingestion to the data transformation and until the report gets updated with the incoming new data to Validate the integrity and performance of your pipelines, ensuring reliability and accuracy.
