@@ -15,4 +15,4 @@ This is Microsoft Fabrics Bing Data Analysis Full End-to-End Data-Engineering-pr
 ![image](https://github.com/user-attachments/assets/8982f132-b7ac-4865-bb75-947d084177f8)
 
 #### Prerequisites:
-#### 1. To login fabric we need Bussiness email ,to create bussiness Email we can create Microsoft Entra Id ,It will provide business email.below link providing How to create to create Entra Id. https://youtu.be/6K4ADjkWjaY?si=RJST3uaZjSwMJW2j
+#### 1. To login fabric we need Business email ,to create business Email we can create Microsoft Entra Id ,It will provide business email.below link providing How to create to create Entra Id. https://youtu.be/6K4ADjkWjaY?si=RJST3uaZjSwMJW2j
