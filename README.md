@@ -18,3 +18,8 @@ This is Microsoft Fabrics Bing Data Analysis Full End-to-End Data-Engineering-pr
 #### Before we started with Project to login Microsoft fabric we need Business email ,to create business Email we can create Microsoft Entra Id ,It will provide business email.below link providing How to create to create Entra Id. https://youtu.be/6K4ADjkWjaY?si=RJST3uaZjSwMJW2j
 ### Tools used in this project
 #### 1. Data Factory
+#### 2. Synapse Data Engineering
+#### 3. Synapse Data Science
+#### 4. Data Pipeline
+#### 5. PowerBi
+#### 6. Data Activator
