@@ -1,4 +1,4 @@
-# Microsoft-Fabrics-Data-Engineering-Project
+# Microsoft-Fabric-Data-Engineering-Project
 This is Microsoft Fabrics Bing Data Analysis Full End-to-End Data-Engineering-project.
 ##### This project is Inspired from Youtube Here is the Link : https://youtu.be/yHU9ADk10eQ?si=GEjVfMy9DWDOhSdC
 ### The Topics covered in this Project 
@@ -15,7 +15,7 @@ This is Microsoft Fabrics Bing Data Analysis Full End-to-End Data-Engineering-pr
 ![image](https://github.com/user-attachments/assets/8982f132-b7ac-4865-bb75-947d084177f8)
 
 #### Prerequisites:
-#### Before we started with Project to login Microsoft fabric we need Business email ,to create business Email we can create Microsoft Entra Id ,It will provide business email.below link providing How to create to create Entra Id. https://youtu.be/6K4ADjkWjaY?si=RJST3uaZjSwMJW2j
+#### Before we started with Project to login Microsoft fabric we need Business email ,to create business Email we can create Microsoft Entra Id ,It will provide business email.below link providing How to create Entra Id. https://youtu.be/6K4ADjkWjaY?si=RJST3uaZjSwMJW2j
 ### Tools used in this project
 #### 1. Data Factory
 #### 2. Synapse Data Engineering
